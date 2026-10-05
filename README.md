@@ -89,12 +89,6 @@ The `expenses.json` file is excluded from GitHub using `.gitignore` to prevent p
 * Build a REST API using FastAPI
 * Add PostgreSQL database support
 * Add user authentication
-
-## 👨‍💻 Author
-
-**Bharath Chandu**
-
-Python Developer | Student | Aspiring Software Developer
 ## 📸 Screenshots
 
 ### Expense Tracker Demo
