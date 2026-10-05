@@ -95,3 +95,12 @@ The `expenses.json` file is excluded from GitHub using `.gitignore` to prevent p
 **Bharath Chandu**
 
 Python Developer | Student | Aspiring Software Developer
+## 📸 Screenshots
+
+### Expense Tracker Demo
+
+![Expense Tracker Demo](screenshots/expense-demo.png)
+
+### Category Summary
+
+![Category Summary](screenshots/category-summary.png)
